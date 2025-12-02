@@ -696,7 +696,7 @@ footer .footer-icon a:hover {
   }
 
   .section-menu {
-      height: 295vh;
+      height: 230vh;
       /* background-color: #575756; */
   }
 
@@ -731,4 +731,12 @@ footer .footer-icon a:hover {
     height: auto;
     width: 18px;
   }
+
+  .galeri {
+  padding: 5rem 5% 1.5rem;
+}
+
+ .hero .hero-grub {
+   padding-top: 1rem;
+ }
 }
